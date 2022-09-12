@@ -1,0 +1,9 @@
+Web app = 
+
+Flask, 
+(project heriarchy)
+      --> projecct name
+      		-->static 	-->image(logo, backgroud),css
+      		-->templates   -->html (public)
+      		-->files --> python --> files.py
+      	
